@@ -1,3 +1,5 @@
+//Homework #2 Variables
+
 /*
 Variables on javascript before ES6 were only conformed by the global variable "var".
 This type of variable can be changed and seen all over the code, and that can 
